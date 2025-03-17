@@ -1,0 +1,1 @@
+# projeto-ia-generativa-azure-openai
